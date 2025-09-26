@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lulakshisl&label=Profile%20views&color=0e75b6&style=flat" alt="lulakshisl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lulakshisl" alt="lulakshisl" /></a> </p>
 
 - 🔭 I’m currently working on [coffee shop](https://github.com/Lulakshisl/cofee_Shop.git)
 
