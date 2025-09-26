@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lulakshi Madubashini</h1>
 <h3 align="center"> passionate IT Student | frontend developer from Srilanka.</h3>
-
-<p align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lulakshisl&label=Profile%20views&color=0e75b6&style=flat" alt="lulakshisl" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lulakshisl&label=Profile%20views&color=0e75b6&style=flat" alt="lulakshisl" /> </p>
 </p>
 
 - 🔭 I’m currently working on [coffee shop](https://github.com/Lulakshisl/cofee_Shop.git)
@@ -16,7 +14,7 @@
 - 📫 How to reach me **lulakshimadubashini@gmail.com**
 
 - ⚡ Fun fact **call me as Lushi**
-- <br>
+<br>
 <p align="center"> My Statistics </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lulakshisl&show_icons=true&locale=en&layout=compact" alt="lulakshisl" /></p>
 
