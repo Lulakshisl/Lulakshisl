@@ -16,6 +16,8 @@
 - 📫 How to reach me **lulakshimadubashini@gmail.com**
 
 - ⚡ Fun fact **call me as Lushi**
+- <br>
+<p align="center"> My Statistics </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lulakshisl&show_icons=true&locale=en&layout=compact" alt="lulakshisl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lulakshisl&show_icons=true&locale=en" alt="lulakshisl" /></p>
