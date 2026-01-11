@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [coffee shop](https://github.com/Lulakshisl/cofee_Shop.git)
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lulakshisl/cofee_Shop.git](https://github.com/Lulakshisl/cofee_Shop.git)
 
