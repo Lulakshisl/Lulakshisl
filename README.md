@@ -3,7 +3,7 @@
 
 <!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Hi+👋,+I'm+Lulakshi+Madubashini;Frontend+Developer;IT+Student+from+Sri+Lanka;UI%2FUX+Lover+💖" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Lulakshi+Madubashini;Frontend+Developer+💻;IT+Student+from+Sri+Lanka+🇱🇰;UI%2FUX+Lover+✨;Call+me+Lushi+💖" />
 </p>
 
 <h3 align="center">Passionate IT Student | Frontend Developer from Sri Lanka</h3>
@@ -21,7 +21,7 @@
   <a href="https://github.com/Lulakshisl">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM">
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
@@ -30,12 +30,13 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 IT Undergraduate (SLIIT)  
+- 🎓 IT Undergraduate at SLIIT  
 - 💻 Frontend Developer  
 - 🌱 Currently learning Python & MERN Stack  
 - ☕ Working on Coffee Shop Project  
+- 🎨 Interested in UI/UX Design  
 - 💬 Ask me about HTML, CSS, JavaScript  
-- 📫 Reach me: lulakshimadubashini@gmail.com  
+- 📫 Reach me: **lulakshimadubashini@gmail.com**  
 - ⚡ Fun fact: Call me **Lushi** 💖  
 
 ---
@@ -43,7 +44,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,mongodb,mysql,git,github,vscode,figma" />
 </p>
 
 ---
@@ -51,15 +52,23 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lulakshisl&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lulakshisl&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lulakshisl&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lulakshisl&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lulakshisl&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lulakshisl&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 Live Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lulakshisl&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -101,5 +110,38 @@
 
 ---
 
-<!-- 🔥 Footer -->
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lulakshisl/Lulakshisl/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🎵 Currently Listening To
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
+</p>
+
+---
+
+## ☕ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_BUYMEACOFFEE_USERNAME">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
+## ✨ Profile Glow
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lulakshisl&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+</p>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:65c7f7,100:ff7eb3&height=120&section=footer" />
