@@ -118,13 +118,12 @@
 
 
 ---
+---
 
 ## 🎵 Currently Listening To
 
 <p align="center">
-  <a href="https://open.spotify.com/user/314s23cmszvltq7yeoo6xwog7kna">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314s23cmszvltq7yeoo6xwog7kna&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314s23cmszvltq7yeoo6xwog7kna&count=1" />
 </p>
 
 ---
