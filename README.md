@@ -120,10 +120,12 @@
 ---
 ---
 
+---
+
 ## 🎵 Currently Listening To
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314s23cmszvltq7yeoo6xwog7kna&count=1" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314s23cmszvltq7yeoo6xwog7kna&count=3" />
 </p>
 
 ---
