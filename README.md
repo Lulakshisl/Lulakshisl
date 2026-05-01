@@ -118,13 +118,11 @@
 
 
 ---
-
 ## 🎵 Currently Listening To
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314s23cmszvltq7yeoo6xwog7kna&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true" />
 </p>
-
 ---
 
 ## ☕ Support Me
