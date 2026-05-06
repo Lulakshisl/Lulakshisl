@@ -31,7 +31,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 IT Undergraduate at SLIIT  
-- 💻 Frontend Developer  
+- 💻 Fullstack Developer  
 - 🌱 Currently learning Python & MERN Stack  
 - ☕ Working on Coffee Shop Project  
 - 🎨 Interested in UI/UX Design  
