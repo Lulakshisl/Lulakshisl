@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,mongodb,mysql,git,github,vscode,figma" />
 </p>
 
----
+----
 
 ## 📊 GitHub Statistics
 
