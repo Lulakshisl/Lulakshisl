@@ -96,6 +96,7 @@
       <img src="https://progress-bar.xyz/50/?title=50%25&width=180&color=3776ab">
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="180">
       <b>Java</b><br><br>
@@ -106,6 +107,7 @@
       <img src="https://progress-bar.xyz/80/?title=80%25&width=180&color=6e40c9">
     </td>
   </tr>
+  
 </table>
 
 ----
