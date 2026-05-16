@@ -76,7 +76,6 @@
 ## 📊 Skill Progress
 
 <table align="center">
-  
   <tr>
     <td align="center" width="180">
       <b>HTML / CSS</b><br><br>
@@ -110,7 +109,7 @@
   
 </table>
 
-----
+---
 
 ## 🐍 Snake Eating My Contributions
 
