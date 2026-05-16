@@ -8,7 +8,7 @@
 
 <h3 align="center">Passionate IT Student | Fullstack Developer from Sri Lanka</h3>
 
-----
+---
 
 <!-- 🔗 Social Buttons -->
 <p align="center">
