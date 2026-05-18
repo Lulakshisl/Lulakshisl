@@ -103,8 +103,7 @@
       <img src="https://progress-bar.xyz/80/?title=80%25&width=180&color=6e40c9">
     </td>
   </tr>
-  
-</table>
+  </table>
 
 ---
 
