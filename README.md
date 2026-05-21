@@ -26,7 +26,6 @@
 </p>
 
 ---
-
 ## 👩‍💻 About Me
 
 - 🎓 IT Undergraduate at SLIIT  
