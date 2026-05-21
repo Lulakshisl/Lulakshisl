@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Lulakshi+Madubashini;Frontend+Developer+💻;IT+Student+from+Sri+Lanka+🇱🇰;UI%2FUX+Lover+✨;Call+me+Lushi+" />
 </p>
-<h3 align="center">Passionate IT Student | Fullstack Developer from Sri Lanka</h3>
+<h3 align="center">|Passionate IT Student | Fullstack Developer from Sri Lanka</h3>
 
 ---
 
