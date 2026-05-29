@@ -27,7 +27,6 @@
 
 ---
 ## 👩‍💻 About Me
-
 - 🎓 IT Undergraduate at SLIIT  
 - 💻 Fullstack Developer  
 - 🌱 Currently learning Python & MERN Stack  
