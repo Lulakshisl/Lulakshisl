@@ -34,7 +34,7 @@
 - 🎨 Interested in UI/UX Design  
 - 💬 Ask me about HTML, CSS, JavaScript  
 - 📫 Reach me: **lulakshimadubashini@gmail.com**  
-- ⚡ Fun fact: Call me **Lushi** 💖  
+- ⚡ Fun fact: Call me **Lushii** 💖  
 
 ---
 
