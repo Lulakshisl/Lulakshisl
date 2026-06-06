@@ -31,8 +31,8 @@
 - 🎓 IT Undergraduate at SLIIT  
 - 💻 Fullstack Developer  
 - 🌱 Currently learning Python & MERN Stack  
-- ☕ Working on portfolio project &
-- ☕ Working on FinPay Wallet project
+-  Working on portfolio project &
+-  Working on FinPay Wallet project
 - 🎨 Interested in UI/UX Design & web development 
 - 💬 Ask me about HTML, CSS, JavaScript  
 - 📫 Reach me: **lulakshimadubashini@gmail.com**  
