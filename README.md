@@ -36,7 +36,7 @@
 - 💬 Ask me about HTML, CSS, JavaScript  
 - 📫 Reach me: **lulakshimadubashini@gmail.com**  
 - ⚡ Fun fact: Call me **Lushii** 💖
-- 🔗 portfolio -  elegant-phoenix-7ee3de.netlify.app
+- 🔗 portfolio -  **elegant-phoenix-7ee3de.netlify.app**
 
 ---
 
