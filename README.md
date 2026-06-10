@@ -35,8 +35,8 @@
 - 🎨 Interested in UI/UX Design & web development 
 - 💬 Ask me about HTML, CSS, JavaScript  
 - 📫 Reach me: **lulakshimadubashini@gmail.com**  
-- ⚡ Fun fact: Call me **Lushii** 💖
 - 🌐 Visit my [Portfolio Website](https://elegant-phoenix-7ee3de.netlify.app/)
+- ⚡ Fun fact: Call me **Lushii** 💖
 
 ---
 
