@@ -48,7 +48,7 @@
 ---
 
 ## 🔗 Projects 
-coconut plantation system
+
 
 ----
 ## 📊 GitHub Statistics
