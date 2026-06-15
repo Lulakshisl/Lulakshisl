@@ -46,6 +46,10 @@
 </p>
 
 ---
+
+## Projects
+
+----
 ## 📊 GitHub Statistics
 
 <p align="center">
