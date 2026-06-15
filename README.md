@@ -124,8 +124,7 @@
 
 ## ☕ Support Me
 
-<p align="center">
-  
+<p align="center">  
   <a href="https://www.buymeacoffee.com/YOUR_BUYMEACOFFEE_USERNAME">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
