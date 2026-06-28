@@ -1,7 +1,7 @@
 <!-- 🔥 Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:65c7f7&height=200&section=header&text=Lulakshi%20Madubashini&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
---
+---
 
 <!-- ✨ Typing Animation -->
 <p align="center">
