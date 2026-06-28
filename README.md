@@ -1,6 +1,7 @@
 <!-- 🔥 Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:65c7f7&height=200&section=header&text=Lulakshi%20Madubashini&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
+
 <!-- ✨ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Lulakshi+Madubashini;Frontend+Developer+💻;IT+Student+from+Sri+Lanka+🇱🇰;UI%2FUX+Lover+✨;Call+me+Lushi+" />
