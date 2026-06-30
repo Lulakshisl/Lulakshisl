@@ -48,11 +48,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,laravel,python,java,c,cpp,mongodb,mysql,git,github,vscode,figma" />
 </p>
 
----
-
-## 🔗 Projects 
-
-
 ----
 ## 📊 GitHub Statistics
 
