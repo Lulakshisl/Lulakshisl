@@ -137,7 +137,11 @@
 ---
 
 
+## 🔗 Projects 
 
+portfolio project
+
+Coconut plantation project
 
 
 ---
