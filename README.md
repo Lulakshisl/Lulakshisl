@@ -119,7 +119,7 @@
 ## 🎵 Recently Played on Spotify
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314s23cmszvltq7yeoo6xwog7kna&count=3&width=600" alt="Spotify Recently Played" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=314s23cmszvltq7yeoo6xwog7kna&count=3&width=600" alt="Spotify Recently Played"/>
 </p>
 
 ---
