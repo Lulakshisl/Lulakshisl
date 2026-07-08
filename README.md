@@ -139,7 +139,7 @@
 ## 🔗 Projects 
 
 portfolio project
-
+LUSH Coffee shop web app
 Coconut plantation project
 
 
