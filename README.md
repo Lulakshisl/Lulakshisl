@@ -34,7 +34,7 @@
 - 🎓 IT Undergraduate at SLIIT  
 - 🌐 Fullstack Developer  
 - 🌱 Currently learning Python & MERN Stack  
-- 💻 Working on student management system
+- 💻 Working on student management system ( Full stack )
 - 🎨 Interested in UI/UX Design & web development 
 - 💬 Ask me about HTML, CSS, JavaScript  
 - 📫 Reach me: **lulakshimadubashini@gmail.com**  
